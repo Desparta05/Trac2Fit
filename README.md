@@ -38,5 +38,5 @@ You can clone the repo to your personal computer. It's important to know that Mo
 ## ScreenShot
 
 ![Home](./assets/screenshots/homescreen.PNG)
-![Add](assets\screenshots\addscreen.PNG)
-![Dashboard](assets\screenshots\dashscreen.PNG)
+![Add](./assets/screenshots/addscreen.PNG)
+![Dashboard](./assets/screenshots/dashscreen.PNG)
